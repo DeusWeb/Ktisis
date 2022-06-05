@@ -9,7 +9,6 @@
 -----
 
 ### <p align="center">💨 Ktisis 💨</p>
-<br><br>
 <p align="center">
 <strong>
 Ktisis is a script that allows to manage discord webhook just with the discord URL!
