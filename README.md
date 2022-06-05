@@ -12,8 +12,8 @@
 <p align="center">
 <strong>
 Ktisis is a script that allows to manage discord webhook just with the discord URL!
+<img src="https://media.discordapp.net/attachments/975887348019646504/983147363646472203/Capture_decran_2022-06-06_01-14-51.png">
 </strong>
 </p>
-<img src="https://media.discordapp.net/attachments/975887348019646504/983147363646472203/Capture_decran_2022-06-06_01-14-51.png" align="center">
 
 -----
