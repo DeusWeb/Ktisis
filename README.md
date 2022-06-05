@@ -28,7 +28,7 @@ Ktisis is a script that allows to manage discord webhook just with the discord U
 
 <br><br>
 * <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-  * `git clone` <a href="https://github.com/DeusWeb/Ktisis/"</a>
+* `git clone` <a href="https://github.com/DeusWeb/Ktisis/"</a>
 * `pip install -U -r modules.txt`
 <br><br>
 
