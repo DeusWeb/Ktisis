@@ -17,10 +17,6 @@ Ktisis is a script that allows to manage discord webhook just with the discord U
 </p>
 
 -----
-### <p align="center">✨ Install ! ✨</p>
-### <p align="center">git clone https://github.com/DeusWeb/Ktisis/</p>
-### <p align="center">pip install -U -r modules.txt</p>
-### <p align="center">python3 or python kitsis.py</p>
 
 ### <p align="center">📀 Dependencies 📀</p>
 
@@ -28,8 +24,10 @@ Ktisis is a script that allows to manage discord webhook just with the discord U
 
 <br><br>
 * <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-* `git clone` <a href="https://github.com/DeusWeb/Ktisis/"</a>
+* `git clone https://github.com/DeusWeb/Ktisis/`
 * `pip install -U -r modules.txt`
 <br><br>
 
 -----
+  
+### <p align="center" href="discord.gg/vecna">💻 Created By DEUS-WEB#9999 💻</p>
