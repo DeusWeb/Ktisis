@@ -29,5 +29,3 @@ Ktisis is a script that allows to manage discord webhook just with the discord U
 <br><br>
 
 -----
-### <a href="discord.gg/vecna" align="center">📗</a> 
-### <a href="discord.gg/vecna" align="center">📗 Created By DEUS-WEB#9999 📗</a>
