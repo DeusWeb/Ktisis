@@ -1,4 +1,4 @@
-
+### <p align="center">⭐ star for more script ⭐</p>
 
 -----
 
@@ -9,4 +9,11 @@
 -----
 
 ### <p align="center">💨 Ktisis 💨</p>
-### <p align="center">⭐ star for more script ⭐</p>
+<br><br>
+<p align="center">
+<strong>
+Ktisis is a script that allows to obfuscate a python file<i>even more</i> hard to deobfuscate.
+</strong>
+</p>
+
+-----
