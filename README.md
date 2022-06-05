@@ -9,3 +9,4 @@
 -----
 
 ### <p align="center">💨 Ktisis 💨</p>
+### <p align="center">⭐ star for more script ⭐</p>
